@@ -1,12 +1,15 @@
-# sway ly
+# Name: Princely "sway ly" Onaifo
 # practice lab
 # draw graphic using new shapes learned, with different colours, offsets, for loops, and text
 import datetime
 import pygame
 from math import pi
 
+# print date 
 print (datetime.date.today())
 
+# initialize pygame
+# Frames per second will be defined by the FPS variable
 pygame.init()
 FPS = pygame.time.Clock()
 
@@ -15,10 +18,10 @@ SCREEN_SIZE = (500, 500)
 screen = pygame.display.set_mode(SCREEN_SIZE)
 pygame.display.set_caption("KAZEKAGE")
 
+# --colours/contstans--
 BLACK = (3, 5, 5)
 WHITE = (247, 249, 250)
 RED = (255, 0, 0)
-
 PI = pi
 
 done = False
