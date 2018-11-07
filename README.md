@@ -3,7 +3,7 @@ Graphics
 
 *Kazekage* 
 ---------
-* Naruto inspired
+* Naruto inspired...like eveything I do
 * Graphic was created using pygame
 * Screenshot of the graphic has also been added
 * ***gaara!***
